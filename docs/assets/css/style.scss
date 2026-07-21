@@ -3,6 +3,16 @@
 
 @import "{{ site.theme }}";
 
-.inner {
-  max-width: 85%;
+header {
+
+display: none;
+
+}
+
+footer {
+  display: none !important;
+}
+
+.btn {
+  display: none !important;
 }
