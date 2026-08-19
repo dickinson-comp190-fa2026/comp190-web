@@ -1,6 +1,6 @@
 # COMP190: Tools and Techniques for Software Development
 
-* [Syllabus](./comp190-syllabus-7-21-2026.docx)
+* [Syllabus](./comp190-syllabus-8-19-2026.docx)
 * [Overview schedule](./comp190-schedule-7-21-2026.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/18/2022</font> -->
 * [Detailed schedule](resources)
 * [Homework assignments](hw)
