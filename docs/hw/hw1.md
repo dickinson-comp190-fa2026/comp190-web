@@ -10,7 +10,7 @@ You can also use a cloud-based Linux environment such as Google Cloud Platform (
 
 
 
-Quick cheap way to create a Linux box on Google Cloud Platform (GCP), as suggested by Gemini:
+If you're looking for a specific suggestion, here is a quick cheap way to create a Linux box on Google Cloud Platform (GCP), as suggested by Gemini:
 
 ### Quick Setup via Google Cloud Console
 
