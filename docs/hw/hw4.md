@@ -6,7 +6,7 @@ Remember to create a new post with a new topic "HW4" in your homework log channe
 
 ## Objectives
 
-This assignment  
+This assignment Further extends our knowledge of using the Linux command line, especially for software installation and environment management. 
 
 Minimal knowledge and experience to acquire include the following:
 * usage of `env` to view environment variables, and `echo` to print the value of a variable, e.g. `echo $PATH`
