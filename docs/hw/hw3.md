@@ -15,7 +15,7 @@ Minimal knowledge and experience to acquire include the following:
   - `head -n4 < lines.txt > top.txt`
 * Running a shell script from the command line, e.g. `./myscript.sh`
 * Understand Unix permissions.
-  - Understand the meaning of _user_, _group_, _owner_, _read_, _write_, _execute_.
+  - Understand the meaning of _user/owner_, _group_, _other_, _read_, _write_, _execute_ for Unix permissions.
   - Interpret the output of `ls -l` to determine the permissions of a file or directory, e.g., `rwxrwxr--`
   `rwxr-xr-x`, `rw-r-xr--`, `r--r--r--`, `r---w---x`.
 * use of `chmod` to change permissions on files and directories, e.g. `chmod u+x myscript.sh`

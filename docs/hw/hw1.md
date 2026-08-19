@@ -14,6 +14,9 @@ You should also memorize the following shell commands and their usage:
 
 Finally, make sure you understand and memorize one-sentence definitions of Unix and Linux, and what is the difference between them.
 
+
+
+
 ### Cloud-based option
 
 Instead of running a local installation of Linux, you can use a cloud-based Linux environment such as Google Cloud Platform (GCP), Amazon Web Services (AWS), or Microsoft Azure. 
@@ -26,9 +29,14 @@ If you're looking for a specific suggestion, here is a quick, inexpensive way to
    * **Machine family:** General-purpose
    * **Series:** E2
    * **Machine type:** `e2-micro`
+   * **Provisioning model:** Spot (cheaper, but may be preempted)
 5. **Boot Disk:** Leave as **Debian**.
 6. Click **Create**.
 _Acknowledgement: the above instructions were provided by Google Gemini._
+
+### Optional: Linux GUI
+
+In this course, you will not be required to have graphical programs running on your Linux environment. However, you may find it fun to explore this. It should be relatively easy if you have a local installation. If you are using a cloud-based Linux solution, you will need to take additional steps. One example of how to do this is available on the on the [Remote Linux GUI demo](../resources/linux-gui-from-remote.md) page.
 
 ## PB version
 

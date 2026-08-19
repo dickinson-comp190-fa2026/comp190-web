@@ -21,5 +21,5 @@ As stated on the syllabus, each assignment must be completed satisfactorily to g
 * [hw1](./hw1.md)
 * [hw2](./hw2.md)
 * [hw3](./hw3.md)
-<!-- * [hw4](./hw4.md) -->
+* [hw4](./hw4.md)
 
