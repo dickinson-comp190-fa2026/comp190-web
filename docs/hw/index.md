@@ -6,7 +6,7 @@ Each assignment asks you to spend several hours gaining experience with a set of
 
 Each assignment page below contains the following sections:
 * **Homework log**: This contains boilerplate instructions reminding you to create a new post with a _new topic_ in your homework log channel on Microsoft Teams. You should make a reply to that topic whenever you do some work on the assignment, and you can also post questions there. Your posts should provide evidence that you spent several hours doing meaningful work. 
-* **Objectives**: Describes the main objectives of the assignment.
+* **Objectives**: Describes the main objectives of the assignment. If you already have the skills and knowledge covered by the main objectives, you should still spend time gaining more advanced experience in the same subject area, logging your work to the homework log. Find suitable online tutorials or ask an AI assistant to suggest relevant activities.
 * **PB version**: Each assignment has a corresponding _Professor Braught (PB) version_, provided as a Microsoft Word document. These assignments were created by Professor Braught for a previous version of COMP190. Some of the instructions may be outdated. Some of the content may be very familiar to you. The PB version is provided as an optional framework, providing detailed suggestions of how to explore the topic. You are free to use this as guidance or pursue your own path based on suggestions from online tutorials or AI assistants.
 * **Likely quiz questions**: Each assignment page contains a list of likely quiz questions. We will have an in-class quiz on the due date of each assignment. Quizzes are closed-book, pen-and-paper tests: you may not consult any materials. Questions on quizzes will be substantially similar to a subset of the "likely quiz questions" posted on each homework page.
 
@@ -19,7 +19,7 @@ As stated on the syllabus, each assignment must be completed satisfactorily to g
 ## Assignment pages
 
 * [hw1](./hw1.md)
-<!-- * [hw2](./hw2.md) -->
+* [hw2](./hw2.md)
 <!-- * [hw3](./hw3.md) -->
 <!-- * [hw4](./hw4.md) -->
 

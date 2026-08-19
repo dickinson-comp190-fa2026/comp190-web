@@ -8,6 +8,12 @@ Remember to create a new post with a new topic "HW1" in your homework log channe
 
 The main objective for this assignment is to spend time familiarizing yourself with a Linux environment that you can either install or access from your own computer. You can use as much AI help as desired for this without needing to acknowledge or mention it. At a minimum you need to have shell access to your Linux environment (that is, you are able to run commands in a terminal window). You can use either a local installation of Linux, or a virtual machine (VM) running Linux, or a remote Linux server that you can access via SSH. On Windows, the easiest way to access a Linux environment is to use the Windows Subsystem for Linux (WSL). On macOS, you can try Multipass.
 
+You should also memorize the following shell commands and their usage:
+* `cd`. `cd ~`, `cd /`, `cd ..`
+* `ls`, `ls -a`, `ls -l`, `ls -al`
+
+Finally, make sure you understand and memorize one-sentence definitions of Unix and Linux, and what is the difference between them.
+
 ### Cloud-based option
 
 Instead of running a local installation of Linux, you can use a cloud-based Linux environment such as Google Cloud Platform (GCP), Amazon Web Services (AWS), or Microsoft Azure. 
