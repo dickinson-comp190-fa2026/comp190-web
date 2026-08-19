@@ -29,5 +29,5 @@ If you're looking for a specific suggestion, here is a quick cheap way to create
 
 * What is Linux?
 * What is Unix?
-* In 1-2 sentences, describe one way that you have employed to access a Linux operating system from a computer running either Windows or macOS.
+* In 1-2 sentences, describe one way that you have accessed a Linux operating system from a computer running either Windows or macOS.
 * What two commands would you use in a Linux terminal to (i) change to your home directory, and then (ii) list all files in that directory, including files that are usually hidden?
