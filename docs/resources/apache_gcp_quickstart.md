@@ -2,6 +2,8 @@
 
 Acknowledgement: Written by Google Gemini, edited by jmac
 
+This page provides one specific example of accessing an Apache web server running on a remote machine. In this specific case color Apache is running on a Linux virtual machine hosted on Google Cloud Platform (GCP).
+
 ### 1. Find External IP Address
 ```bash
 curl -4 ifconfig.me
