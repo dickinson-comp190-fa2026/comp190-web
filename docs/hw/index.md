@@ -25,7 +25,11 @@ As stated on the syllabus, each assignment must be completed satisfactorily to g
 * [hw5](./hw5.md)
 * [hw6](./hw6.md)
 * [hw7](./hw7.md)
-* [hw8](./hw8.md)
+<!-- * [hw8](./hw8.md) -->
+* hw8: no homework assignment and no quiz questions for week 8.
 * [hw9](./hw9.md)
 * [hw10](./hw10.md)
+* [hw11](./hw11.md)
+* [hw12](./hw12.md)
+* [hw13](./hw13.md)
 
