@@ -7,7 +7,7 @@ Each assignment asks you to spend several hours gaining experience with a set of
 Most assignment pages below contain the following sections:
 * **Homework log**: This contains boilerplate instructions reminding you to create a new post with a _new topic_ in your homework log channel on Microsoft Teams. You should make a reply to that topic whenever you do some work on the assignment, and you can also post questions there. Your posts should provide evidence that you spent several hours doing meaningful work. Some assignments do not require a homework log, and this is indicated in the assignment page.
 * **Objectives**: Describes the main objectives of the assignment. If you already have the skills and knowledge covered by the main objectives, you should still spend time gaining more advanced experience in the same subject area, logging your work to the homework log. Find suitable online tutorials or ask an AI assistant to suggest relevant activities.
-* **PB version**: Most assignments have a corresponding _Professor Braught (PB) version_, provided as a Microsoft Word document. These assignments were created by Professor Braught for a previous version of COMP190. Some of the instructions may be outdated. The PB version is provided as an optional framework, providing detailed suggestions of how to explore the topic. You are free to use this as guidance or pursue your own path based on suggestions from online tutorials or AI assistants.
+* **PB version**: Most assignments have a corresponding _Professor Braught (PB) version_, provided as a Microsoft Word document. These assignments were created by Professor Braught for a previous version of COMP190. Some of the instructions may be outdated. The PB version is provided as an optional framework, providing detailed suggestions of how to explore the topic. You are generally free to use this as guidance or pursue your own path based on suggestions from online tutorials or AI assistants. Some assignments have more specific instructions about this.
 * **Likely quiz questions**: Most assignment pages contain a list of likely quiz questions. We will have an in-class quiz on the due date of each such assignment. Quizzes are closed-book, pen-and-paper tests: you may not consult any materials. Questions on quizzes will be substantially similar to a subset of the "likely quiz questions" posted on the corresponding homework page.
 
 ### Grading
@@ -15,6 +15,7 @@ Most assignment pages below contain the following sections:
 As stated on the syllabus, each assignment must be completed satisfactorily to gain credit for the course. The instructor will determine if performance is satisfactory based on the quality of the homework log, quiz responses, and other completed work. In weeks that require both a homework log and a quiz, the work will be judged as satisfactory if both
 * the homework log provides clear evidence of multiple hours of meaningful work; and
 * the quiz responses are substantially correct.
+
 In weeks with different components, a similar policy applies: every component must be judged satisfactory.
 
 ## Assignment pages
