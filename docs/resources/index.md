@@ -9,4 +9,5 @@
   - any volunteers to demo WSL, Docker, or Multipass?
 * go over quiz questions for next week
 * note the required reading for next week
+* make initial activity log post for HW1
 * free time for HW1
