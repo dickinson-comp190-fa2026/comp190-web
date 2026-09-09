@@ -4,6 +4,7 @@
 
 * quiz
 * questions on syllabus
+* sign up for ethics symposium: <https://tinyurl.com/dson-ethics-ai-2026>
 * student demos:
   * Theo: Docker and Tiger VNC
   * Rayyan: WSL in VS Code
