@@ -1,5 +1,20 @@
 # Detailed schedule and resources
 
+## Class 3
+
+* quiz
+* for next week: 
+  * note the required reading (about 6 pages -- skip sections 2-4 & 7-9)
+  * note the new [discussion rules](../discussion-participation.md)
+* any student demos?
+* hw3 demos and experiments (includes optional content):
+  * stdin, stdout, stderr (`ls /tmp /nonexistent`, `ls /tmp /nonexistent 1>ls-out.txt 2>ls-err.txt`, `ls /tmp /nonexistent 2>/dev/null`, `ls /tmp /nonexistent 1>/dev/null`)
+  * redirection (`<`, `>`, `>>`)
+  * pipes (`|`)
+  * file permissions (`chmod a+x hi.sh`, `chmod 644 hi.py`, `chmod 755 hi.sh`)
+  * quiz questions
+* Any remaining time: work on homework
+
 ## Class 2
 
 * quiz
