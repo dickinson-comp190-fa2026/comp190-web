@@ -1,5 +1,16 @@
 # Detailed schedule and resources
 
+## Class 4
+
+* quiz + simultaneously check handwritten notes for R04
+* discuss R04
+* HW questions
+* any student demos?
+* hw4 demos
+  * `env`, `export`, `sudo`
+  * probably skip: `groups`, `sudo apt update`, `sudo apt install cowsay`, install Java and run Java program
+* hw4 quiz questions
+
 ## Class 3
 
 * quiz
