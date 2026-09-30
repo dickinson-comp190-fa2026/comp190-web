@@ -1,5 +1,17 @@
 # Detailed schedule and resources
 
+## Class 5
+
+* quiz
+* HW questions
+* any student demos?
+* Prof Braught's slides for Docker: [05-S-Docker.pptx](./class05/05-S-Docker.pptx)
+* hw5 quiz questions
+* hw5 demos
+  * run apache and edit the `index.html` file on a GCP machine, view from local machine: [apache GCP quickstart](./apache_gcp_quickstart.md)
+  * run web server in a docker container, view `index.html` via `curl http://localhost:8080`
+  * edit `index.html` outside the container then restart, show new view
+
 ## Class 4
 
 * quiz + simultaneously check handwritten notes for R04
