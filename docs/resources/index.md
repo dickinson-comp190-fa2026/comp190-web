@@ -1,5 +1,14 @@
 # Detailed schedule and resources
 
+## Class 6
+
+* quiz + simultaneously check handwritten notes for R06
+* explanation of how Linux knows who can sudo
+* HW questions
+* any student demos?
+* hw6 quiz questions: Answers are _not_ provided this week. Please create suitable answers as part of your homework research.
+* discuss R06
+
 ## Class 5
 
 * quiz
