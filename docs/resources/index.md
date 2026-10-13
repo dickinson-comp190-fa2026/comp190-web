@@ -1,5 +1,12 @@
 # Detailed schedule and resources
 
+## Class 7
+
+* quiz
+* questions, demos, discussion
+* powerpoint (Prof Braught's slides) for FOSS structures: [07-S-ProjectStructures.pptx](../materials/07-S-ProjectStructures.pptx)
+* remaining time: work on homework 7.
+
 ## Class 6
 
 * quiz + simultaneously check handwritten notes for R06
