@@ -1,5 +1,12 @@
 # Detailed schedule and resources
 
+## Class 8
+
+* mid-semester survey form (link provided in class)
+* quiz + simultaneously check handwritten notes for R08
+* discussion of AI and copyright
+* research in teams: patent, trademark, copyright, trade secret, fair use.
+
 ## Class 7
 
 * quiz
@@ -42,7 +49,7 @@
 ## Class 3
 
 * quiz
-* for next week: 
+* for next week:
   * note the required reading (about 6 pages -- skip sections 2-4 & 7-9)
   * note the new [discussion rules](../discussion-participation.md)
 * any student demos?
