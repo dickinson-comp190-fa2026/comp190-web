@@ -2,10 +2,32 @@
 
 ## Class 8
 
-* mid-semester survey form (link provided in class)
+* [mid-semester survey form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-2zFL4dI9oNMmoALudp-AK9UMjNMOUQ1U1RHVEk3T0wxU1hPV0NYM1lPSi4u)
 * quiz + simultaneously check handwritten notes for R08
 * discussion of AI and copyright
-* research in teams: patent, trademark, copyright, trade secret, fair use.
+* research in teams (Team 1 start with question 1, Team 2 start with question 2, Team 3 start with question 3):
+
+  | team number | manager | reporter |       |       |
+  |-------------|---------|----------|-------|-------|
+  | 1           | Mahir   | Daria    | Eden  |       |
+  | 2           | Barbara | Rayyan   | Simon |       |
+  | 3           | Theo    | Khang    | Aniya | Norah |
+
+  1. What is the current policy of the linux kernel for accepting AI-generated code? Explain reasoning for the policy and any recent changes.
+  2. How about book publishers and their policies on AI-generated content? Choose one or more of the following and investigate their policy:
+     * Penguin Random House
+     * HarperCollins
+     * Simon & Schuster
+     * Macmillan Publishers
+     * Hachette Book Group  
+    Also report on any recent changes in publishing industry practices.
+  3. How about TV news organizations and their policies on AI-generated content? Choose one or more of the following and investigate their policy:
+     * CNN
+     * Fox News
+     * MSNBC
+     * BBC News
+     * Al Jazeera  
+    Also report on any recent changes in TV news industry practices.
 
 ## Class 7
 
