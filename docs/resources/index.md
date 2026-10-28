@@ -1,5 +1,11 @@
 # Detailed schedule and resources
 
+## Class 9
+
+Discussion of mid-semester feedback 
+
+For HW9, the textbook and the link needed for the fork of FarmData2 are available on the [Readings](../readings/) page.
+
 ## Class 8
 
 * [mid-semester survey form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-2zFL4dI9oNMmoALudp-AK9UMjNMOUQ1U1RHVEk3T0wxU1hPV0NYM1lPSi4u)
