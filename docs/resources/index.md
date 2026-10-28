@@ -2,9 +2,17 @@
 
 ## Class 9
 
-Discussion of mid-semester feedback 
+Discussion of mid-semester feedback
 
 For HW9, the textbook and the link needed for the fork of FarmData2 are available on the [Readings](../readings/) page.
+
+Talk on copyright law and AI -- tomorrow Thursday Oct 29th in the Stafford lecture room of Rector, starts at noon.
+
+Required event tomorrow evening 10/29 -- Ethics symposium, Stern 5pm
+
+Writing exercise based on handout (respond to NYTimes article)
+
+Discussion of the writing exercise if time.
 
 ## Class 8
 
