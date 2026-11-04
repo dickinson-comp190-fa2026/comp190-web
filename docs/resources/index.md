@@ -5,6 +5,7 @@
 * Quiz
 * writing exercise from last time: review, revise, discuss with peer
   * If you missed it, complete the [writing exercise][handoutLink] and bring to my office hour to discuss.
+  * upload to your WiD repo at <https://github.com/Dickinson-COMP-WiD/yourDickinsonLogin> (you may need to accept invite on github.com first)
 * discuss homework
 * discuss R10
 
