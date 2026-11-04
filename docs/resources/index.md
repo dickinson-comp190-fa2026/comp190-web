@@ -1,5 +1,13 @@
 # Detailed schedule and resources
 
+## Class 10
+
+* Quiz
+* writing exercise from last time: review, revise, discuss with peer
+  * If you missed it, complete the [writing exercise][handoutLink] and bring to my office hour to discuss.
+* discuss homework
+* discuss R10
+
 ## Class 9
 
 Discussion of mid-semester feedback
@@ -10,7 +18,7 @@ Talk on copyright law and AI -- tomorrow Thursday Oct 29th in the Stafford lectu
 
 Required event tomorrow evening 10/29 -- Ethics symposium, Stern 5pm
 
-Writing exercise based on handout (respond to NYTimes article)
+Writing exercise based on [handout][handoutLink] (respond to NYTimes article)
 
 Discussion of the writing exercise if time.
 
@@ -122,3 +130,5 @@ Discussion of the writing exercise if time.
 * note the required reading for next week
 * make initial activity log post for HW1
 * free time for HW1
+
+[handoutLink]: https://dickinson0.sharepoint.com/:w:/s/COMP190fall2026/IQDGY6cwh1i7Q5VTOaKO2RTuAd3ZbDa6JRBdYgBmFfEG3pA?e=uzZ9Qj
