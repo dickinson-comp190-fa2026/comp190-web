@@ -14,3 +14,5 @@ alias gpl='git pull'
 ```
 
 **very cool and useful!!**
+
+**in fact, exceptionally cool!!**
