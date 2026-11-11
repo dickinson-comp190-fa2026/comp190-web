@@ -6,14 +6,18 @@
 * discuss:
   * Git staging and branching (what are they for?) -- demo using COMP190 website
   * Git CLI vs GUI (e.g. VSCode)
+  * using aliases with git: [examples](./class11/git_alias_examples.md)
   * AI commit messages
-  * `.gitignore`
+  * `.gitignore` (create using AI?)
 * slides for GitKit Ch4 (HW11). (All slides are available from GitKit section 1.1.10.)
 * go over HW11 quiz questions
 * check:
   * has everyone claimed an issue?
   * has everyone submitted a satisfactory PR?
-* Remaining time: work on HW11.
+* Remaining time:
+  * claim issue
+  * fix PR -- get it merged by instructor
+  * (optional) work on HW11
 
 ## Class 10
 
