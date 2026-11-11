@@ -12,3 +12,5 @@ alias glg='git log --graph --pretty=oneline --abbrev-commit'
 alias gp='git push'
 alias gpl='git pull'
 ```
+
+**very cool and useful!!**
