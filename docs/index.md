@@ -11,4 +11,4 @@
 * Zoom link for when class is online: [https://zoom.us/my/johnmaccormick](https://zoom.us/my/johnmaccormick). Meeting ID: 398 215 6590.
 * [AI prompt](./comp190-prompt.md)
 * [Office hours](https://johnmaccormick.github.io/jmac-web/office-hours.html)
-* fun demo, right?
+
