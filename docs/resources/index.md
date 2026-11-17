@@ -1,5 +1,19 @@
 # Detailed schedule and resources
 
+## Class 12
+
+* Quiz
+* catchup: complete FarmData elements of HW9, 10, 11 so that we can all observe merge conflicts... make sure you
+  * claimed a round1 issue (HW9)
+  * submitted a PR that will close the round1 issue (HW10)
+  * the instructor has merged your PR and the issue is closed
+  * claimed a round2 issue (HW11)
+  * submitted a PR that will close the round2 issue (HW11)
+  * instructor will then merge a PR that will create a merge conflict with your PR, so you are ready for HW12
+* discuss R12
+
+
+
 ## Class 11
 
 * Quiz

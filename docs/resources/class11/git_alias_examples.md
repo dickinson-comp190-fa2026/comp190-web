@@ -14,4 +14,3 @@ alias gpl='git pull'
 ```
 
 **very cool and useful!!**
-
